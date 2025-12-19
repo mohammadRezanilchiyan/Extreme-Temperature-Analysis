@@ -1,4 +1,5 @@
-# Extreme Temperature Analysis
+# 🌡️ Extreme Temperature Analysis in France
+
 This repository contains a Jupyter notebook analyzing extreme temperature data.
 The project focuses on extreme temperature behavior rather than averages, using surface station data from Météo-France. 
 Wet-bulb temperature is derived from temperature and humidity variables. 
