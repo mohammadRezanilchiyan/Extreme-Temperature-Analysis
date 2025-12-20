@@ -15,3 +15,9 @@ hospital overload
 crop failure
 power and infrastructure shutdowns
 The goal is to build an early-warning style predictor based on observed climate extremes.
+
+## Core Research Questions ❓
+ - When do temperatures become dangerous for human survival?
+ - How often do extreme heat events occur today?
+ - How intense are these events, and are they becoming more frequent?
+ - What is the probability of rare but catastrophic heat events (e.g. a “20-year heat event”)?
