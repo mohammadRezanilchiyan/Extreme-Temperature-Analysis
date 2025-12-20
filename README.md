@@ -81,6 +81,23 @@ Why important: defines the worst daily thermal stress on humans
 
 - Must be controlled for bias and spatial heterogeneity
 
+# What Data Is Actually Extracted?
+
+From the Météo-France catalogue, the project uses:
+
+- Daily surface observations
+  
+- Station-based data
+  
+Variables:
+TX (daily max temperature)
+TN (daily min temperature)
+Humidity or dew point
+Date, station ID, location, altitude
+Stations are aggregated into regions (NW, NE, SW, SE France).
+
+
+
 ## Why Wet-Bulb Temperature?
 # What is Wet-Bulb Temperature (Tw)?
 Wet-bulb temperature combines:
