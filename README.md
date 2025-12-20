@@ -23,3 +23,10 @@ The goal is to build an early-warning style predictor based on observed climate 
  - How often do extreme heat events occur today?
  - How intense are these events, and are they becoming more frequent?
  - What is the probability of rare but catastrophic heat events (e.g. a “20-year heat event”)?
+
+# Why Not Use Average Temperature?
+*Average temperature* is a poor indicator of human risk.
+- Mean temperature smooths out dangerous events  ❌ 
+- Extreme temperature captures lethal conditions ✅ 
+Deaths, crop loss, infrastructure failures, and blackouts occur during rare extremes, not during “average” days.
+Therefore, this project focuses on the tails of the temperature distribution, not its center.
