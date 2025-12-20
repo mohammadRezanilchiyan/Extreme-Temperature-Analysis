@@ -48,8 +48,10 @@ Key characteristics
 
 *Main source:*
 Données climatologiques de base – quotidiennes (data.gouv.fr)
-[Visit Météo-France website](https://donneespubliques.meteofrance.fr)
-[Visit Météo-France website](https://www.data.gouv.fr/datasets/donnees-climatologiques-de-base-quotidiennes-stations-complementaires?utm_source=chatgpt.com) search for :quot_departement_75
+[Visit Météo-France website](https://donneespubliques.meteofrance.fr) and 
+
+[Visit Météo-France website](https://www.data.gouv.fr/datasets/donnees-climatologiques-de-base-quotidiennes-stations-complementaires?utm_source=chatgpt.com) 
+search for :quot_departement_75
 
 
 # Key Variables
@@ -71,3 +73,31 @@ Why important: defines the worst daily thermal stress on humans
 -Geographic position and altitude
 -Altitude strongly affects temperature extremes
 -Must be controlled for bias and spatial heterogeneity
+
+## Why Wet-Bulb Temperature?
+# What is Wet-Bulb Temperature (Tw)?
+Wet-bulb temperature combines:
+-air temperature
+-humidity (or dew point)
+
+It measures how effectively the human body can cool itself through sweating.
+
+*Why is it critical?*
+
+At high humidity, sweat does not evaporate efficiently.
+When Tw ≈ 35 °C, the human body can no longer regulate its temperature.
+
+📌 At this threshold:
+even healthy people
+in the shade
+with water
+without physical activity
+can die within a few hours.
+This is a physiological limit, not a theoretical model.
+
+# Important
+
+Wet-bulb temperature is not directly measured
+It is computed from temperature and humidity variables
+
+--> This demonstrates both data processing skills and domain knowledge
