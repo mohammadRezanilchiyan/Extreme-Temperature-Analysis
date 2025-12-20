@@ -49,6 +49,8 @@ Key characteristics
 *Main source:*
 Données climatologiques de base – quotidiennes (data.gouv.fr)
 [Visit Météo-France website](https://donneespubliques.meteofrance.fr)
+[Visit Météo-France website](https://www.data.gouv.fr/datasets/donnees-climatologiques-de-base-quotidiennes-stations-complementaires?utm_source=chatgpt.com) search for :quot_departement_75
+
 
 # Key Variables
 🌡️ **TX** — Daily Maximum Temperature (Core Variable)
