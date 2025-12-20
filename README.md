@@ -48,19 +48,24 @@ Key characteristics
 
 *Main source:*
 Données climatologiques de base – quotidiennes (data.gouv.fr)
+[Visit Météo-France website](https://donneespubliques.meteofrance.fr)
 
 # Key Variables
-🌡️ # TX — Daily Maximum Temperature (Core Variable)
-Definition: highest temperature recorded each day
-Unit: °C × 10 (e.g. TX = 354 → 35.4 °C)
+🌡️ **TX** — Daily Maximum Temperature (Core Variable)
+
+-Definition: highest temperature recorded each day
+-Unit: °C × 10 (e.g. TX = 354 → 35.4 °C)
+
 Why important: defines the worst daily thermal stress on humans
 
-❄️ # TN — Daily Minimum Temperature
-Nighttime minimum temperature
-High TN prevents nighttime recovery
-TX + TN together characterize heat waves
+❄️ **TN** — Daily Minimum Temperature
 
-🌍 # LAT, LON, ALTI
-Geographic position and altitude
-Altitude strongly affects temperature extremes
-Must be controlled for bias and spatial heterogeneity
+-Nighttime minimum temperature
+-High TN prevents nighttime recovery
+-TX + TN together characterize heat waves
+
+🌍 **LAT, LON, ALTI**
+
+-Geographic position and altitude
+-Altitude strongly affects temperature extremes
+-Must be controlled for bias and spatial heterogeneity
