@@ -1,4 +1,6 @@
 # Extreme-Temperature-Analysis
+Write<b> By Mohammad Reza Nilchiyan</b>
+
 Predicting Dangerous Heat Conditions in France
 The project focuses on extreme temperature behavior rather than averages, using surface station data from Météo-France. 
 Wet-bulb temperature is derived from temperature and humidity variables. 
