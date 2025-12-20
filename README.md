@@ -57,35 +57,35 @@ search for :quot_departement_75
 # Key Variables
 🌡️ **TX** — Daily Maximum Temperature (Core Variable)
 
--Definition: highest temperature recorded each day
+- Definition: highest temperature recorded each day
 
--Unit: °C × 10 (e.g. TX = 354 → 35.4 °C)
+- Unit: °C × 10 (e.g. TX = 354 → 35.4 °C)
 
 Why important: defines the worst daily thermal stress on humans
 
 ❄️ **TN** — Daily Minimum Temperature
 
--Nighttime minimum temperature
+- Nighttime minimum temperature
 
--High TN prevents nighttime recovery
+- High TN prevents nighttime recovery
 
--TX + TN together characterize heat waves
+- TX + TN together characterize heat waves
 
 🌍 **LAT, LON, ALTI**
 
--Geographic position and altitude
+- Geographic position and altitude
 
--Altitude strongly affects temperature extremes
+- Altitude strongly affects temperature extremes
 
--Must be controlled for bias and spatial heterogeneity
+- Must be controlled for bias and spatial heterogeneity
 
 ## Why Wet-Bulb Temperature?
 # What is Wet-Bulb Temperature (Tw)?
 Wet-bulb temperature combines:
 
--air temperature
+- air temperature
 
--humidity (or dew point)
+- humidity (or dew point)
 
 It measures how effectively the human body can cool itself through sweating.
 
@@ -116,16 +116,16 @@ This project analyzes rare but dangerous events, not typical days.
 *Intuition (no math)*
 Imagine all daily temperatures in a year:
 
--Most days are safe and moderate
+- Most days are safe and moderate
 
--A few days are extremely hot
+- A few days are extremely hot
 
 Those rare days lie in the right tail of the distribution.
 This is where:
 
--heat stroke
+- heat stroke
 
--wet-bulb threshold exceedance
+- wet-bulb threshold exceedance
 
--infrastructure failure
+- infrastructure failure
 actually occur.
