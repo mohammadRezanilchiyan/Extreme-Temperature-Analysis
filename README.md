@@ -63,6 +63,7 @@ search for :quot_departement_75
 
 Why important: defines the worst daily thermal stress on humans
 
+
 ❄️ **TN** — Daily Minimum Temperature
 
 - Nighttime minimum temperature
@@ -70,6 +71,7 @@ Why important: defines the worst daily thermal stress on humans
 - High TN prevents nighttime recovery
 
 - TX + TN together characterize heat waves
+  
 
 🌍 **LAT, LON, ALTI**
 
