@@ -51,12 +51,10 @@ Données climatologiques de base – quotidiennes (data.gouv.fr)
 [Visit Météo-France website](https://donneespubliques.meteofrance.fr) and 
 
 [Visit Météo-France website](https://www.data.gouv.fr/datasets/donnees-climatologiques-de-base-quotidiennes-stations-complementaires?utm_source=chatgpt.com) 
-search for :quot_departement_75
+search for :: quot_departement_XX 
 
-Search terms on data.gouv.fr:
- données climatologiques de base quotidiennes: quot_departement_XX
-Temperature: Q descriptif_champs_RR-T-Vent.csv
-Humidity: Q descriptif_champs_RR-T-Vent.cs
+- Temperature: Q descriptif_champs_RR-T-Vent.csv
+- Humidity: Q descriptif_champs_RR-T-Vent.cs
 XX =
 1. Paris → 75 : quot_departement_75
 2. Lyon → 69:  quot_departement_69
