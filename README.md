@@ -53,6 +53,15 @@ Données climatologiques de base – quotidiennes (data.gouv.fr)
 [Visit Météo-France website](https://www.data.gouv.fr/datasets/donnees-climatologiques-de-base-quotidiennes-stations-complementaires?utm_source=chatgpt.com) 
 search for :quot_departement_75
 
+Search terms on data.gouv.fr:
+ données climatologiques de base quotidiennes: quot_departement_XX
+Temperature: Q descriptif_champs_RR-T-Vent.csv
+Humidity: Q descriptif_champs_RR-T-Vent.cs
+XX =
+1. Paris → 75 : quot_departement_75
+2. Lyon → 69:  quot_departement_69
+3. Bordeaux → 33: quot_departement_33
+4. Marseille → 13: quot_departement_13
 
 # Key Variables
 🌡️ **TX** — Daily Maximum Temperature (Core Variable)
