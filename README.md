@@ -87,7 +87,7 @@ XX =
 - Unit: °C × 10 (e.g. TX = 354 → 35.4 °C)
 
 Why important: defines the worst daily thermal stress on humans
-
+------------------------------------------------------------------------------------
 
 ❄️ **TN** — Daily Minimum Temperature
 
@@ -96,7 +96,7 @@ Why important: defines the worst daily thermal stress on humans
 - High TN prevents nighttime recovery
 
 - TX + TN together characterize heat waves
-  
+ ------------------------------------------------------------------------------------ 
 
 🌍 **LAT, LON, ALTI**
 
@@ -105,6 +105,7 @@ Why important: defines the worst daily thermal stress on humans
 - Altitude strongly affects temperature extremes
 
 - Must be controlled for bias and spatial heterogeneity
+------------------------------------------------------------------------------------
 
 # What Data Is Actually Extracted?
 
