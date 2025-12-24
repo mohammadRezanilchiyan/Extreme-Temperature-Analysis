@@ -26,9 +26,9 @@ crop failure
 power and infrastructure shutdowns
 The goal is to build an early-warning style predictor based on observed climate extremes.
 
-### The central question of this project is:
-<span style="color:red"> How do extreme temperatures behave over time and across locations, and what does this imply for regional vulnerability and future climate risk?</span>
-(https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.istockphoto.com%2Fde%2Fgrafiken%2Fimportant&ved=0CBUQjRxqFwoTCJiXm4jC1pEDFQAAAAAdAAAAABAI&opi=89978449)
+### The central question of this project is: <img src="/Users/mohammadrezanilchiyan/Desktop" alt="Climate Image" width="400"/>
+ How do extreme temperatures behave over time and across locations, and what does this imply for regional vulnerability and future climate risk?
+
 ## Core Research Questions ❓
  - When do temperatures become dangerous for human survival?
  - How often do extreme heat events occur today?
