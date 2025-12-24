@@ -28,7 +28,7 @@ The goal is to build an early-warning style predictor based on observed climate 
 
 ### The central question of this project is:
 <span style="color:red"> How do extreme temperatures behave over time and across locations, and what does this imply for regional vulnerability and future climate risk?</span>
-(https://img.shields.io/badge/Question-Important-red)
+display(Image(filename="important.jpg",width=500))
 ## Core Research Questions ❓
  - When do temperatures become dangerous for human survival?
  - How often do extreme heat events occur today?
