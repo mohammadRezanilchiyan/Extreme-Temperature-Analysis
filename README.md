@@ -30,7 +30,7 @@ The goal is to build an early-warning style predictor based on observed climate 
 <img src="images/important.jpg" alt="Important" width="250"/>
  How do extreme temperatures behave over time and across locations, and what does this imply for regional vulnerability and future climate risk?
 
-## Core Research Questions ❓
+## Other Core Research Questions ❓
  - When do temperatures become dangerous for human survival?
  - How often do extreme heat events occur today?
  - How intense are these events, and are they becoming more frequent?
