@@ -123,6 +123,12 @@ Date, station ID, location, altitude
 Stations are aggregated into regions (NW, NE, SW, SE France).
 
 
+# Data Exploration
+This step answers *“What is inside the data?”*
+- Check data size, structure, and variables
+- Identify missing values and outliers
+- Use summary statistics and visualizations
+- Understand relationships between variables
 
 ## Why Wet-Bulb Temperature?
 # What is Wet-Bulb Temperature (Tw)?
