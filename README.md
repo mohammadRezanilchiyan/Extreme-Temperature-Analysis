@@ -33,9 +33,27 @@ Deaths, crop loss, infrastructure failures, and blackouts occur during rare extr
 Therefore, this project focuses on the tails of the temperature distribution, not its center.
 
 # What Data Is Used?
-Why Surface Station Data?
-Humans live at the surface, not in the upper atmosphere.
-This project uses surface meteorological station data measured at ~2 meters height, which is the standard for human-relevant climate impact studies.
+This project focuses on understanding extreme temperature behavior in French cities, rather than simple averages. To achieve this, we use surface meteorological station data measured at approximately 2 meters above the ground — the standard for capturing conditions that directly affect humans. Surface station measurements are critical because they reflect temperatures experienced in daily life, unlike upper-atmosphere readings, which are less relevant for local heat exposure and risk assessment.
+From a Machine Learning and Data Science perspective, one of the biggest challenges is knowing where to start when confronted with a dataset. At first glance, it can feel overwhelming. We may not immediately understand:
+
+- What each variable represents
+- Which questions the dataset can help answer
+- How to identify potential biases or gaps in coverage
+
+*In this project* , we follow a structured approach to address these challenges:
+1. Understanding the dataset and its context
+- Focus on daily temperature data collected from five selected stations per city
+- Examine station locations, altitude, and coverage periods
+  
+2. Developing essential data handling and analysis reflexes
+- Explore daily maximum (TX) and minimum (TN) temperatures
+- Identify missing values, inconsistencies, and biases
+- Learn how temperature varies over time and across stations
+  
+3. Producing relevant visualizations with commentary and validation
+- Use histograms, scatter plots, boxplots, and heatmaps to explore distributions and relationships
+- Comment on observed patterns and validate them statistically or through data manipulation
+
 
 # Dataset
 Données climatologiques de base – quotidiennes (Météo-France)
