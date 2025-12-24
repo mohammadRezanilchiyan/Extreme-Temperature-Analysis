@@ -26,7 +26,7 @@ crop failure
 power and infrastructure shutdowns
 The goal is to build an early-warning style predictor based on observed climate extremes.
 
-### The central question of this project is: ![Important](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Red_alert_icon.svg/1200px-Red_alert_icon.svg.png)
+### The central question of this project is: ![Important](images/important.png)
 
  How do extreme temperatures behave over time and across locations, and what does this imply for regional vulnerability and future climate risk?
 
