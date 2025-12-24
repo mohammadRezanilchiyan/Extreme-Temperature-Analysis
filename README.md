@@ -35,7 +35,7 @@ How do extreme temperatures behave over time and across locations, and what does
  - How intense are these events, and are they becoming more frequent?
  - What is the probability of rare but catastrophic heat events (e.g. a “20-year heat event”)?
 
-# Why Not Use Average Temperature?
+## Why Not Use Average Temperature?
 *Average temperature* is a poor indicator of human risk.
 - Mean temperature smooths out dangerous events  ❌ 
 - Extreme temperature captures lethal conditions ✅
