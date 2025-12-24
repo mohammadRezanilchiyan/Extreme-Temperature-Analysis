@@ -27,7 +27,7 @@ power and infrastructure shutdowns
 The goal is to build an early-warning style predictor based on observed climate extremes.
 
 ### The central question of this project is:
-<span style="color:red"> How do extreme temperatures behave over time and across locations, and what does this imply for regional vulnerability and future climate risk?<span>
+<span style="color:red"> How do extreme temperatures behave over time and across locations, and what does this imply for regional vulnerability and future climate risk?</span>
 
 ## Core Research Questions ❓
  - When do temperatures become dangerous for human survival?
