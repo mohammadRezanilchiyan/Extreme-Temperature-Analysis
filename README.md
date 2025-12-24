@@ -6,8 +6,16 @@ The project focuses on extreme temperature behavior rather than averages, using 
 Wet-bulb temperature is derived from temperature and humidity variables. 
 Extreme value statistics and machine learning models are used to assess regional vulnerability and future trends.
 
+provided with historical meteorological data collected from surface weather stations operated by Météo-France, covering several decades and multiple stations per city.
+The dataset includes daily measurements such as:
+
+- Daily maximum temperature (TX)
+- Daily minimum temperature (TN)
+- Station location (latitude, longitude, altitude)
+- Station identifiers and names
 
 # Project Overview
+working on a climate-risk and environmental analysis project.
 When Do Temperatures Become Dangerous for Humans in France?
 What is this project trying to answer?
 This project investigates when, where, and how often temperatures in France reach dangerous or potentially unlivable levels for humans, now and in the future.
@@ -180,3 +188,9 @@ This is where:
 
 - infrastructure failure
 actually occur.
+
+
+# Identifying the ML Problem Type
+here is question to answer : 
+- What Are We Trying to Predict?
+  
