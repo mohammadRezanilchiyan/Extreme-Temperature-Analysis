@@ -200,7 +200,7 @@ Visually, the plot reveals a clear long-term upward trend in average maximum tem
 This increase in baseline temperature is a key contextual element for extreme temperature analysis. As average maximum temperatures rise, the probability, frequency, and intensity of extreme heat events also increase. Consequently, understanding this long-term trend is essential before focusing on extremes, thresholds, and impacts, which are central objectives of this project.
 
 
-<img src="images/Average Yearly Maximum Temperature.png" alt="Important" width="400"/>
+<img src="images/Average Yearly Maximum Temperature.png" alt="Important" width="600"/>
 
 
 
