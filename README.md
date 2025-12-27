@@ -198,7 +198,9 @@ actually occur.
 This figure illustrates the evolution of the average yearly daily maximum temperature (TX) in Marseille between 1995 and 2023. Each point corresponds to the mean of all daily maximum temperatures recorded within a given year, while the connecting line highlights the temporal progression.
 Visually, the plot reveals a clear long-term upward trend in average maximum temperatures. During the early period (approximately 1995–2005), yearly averages generally range between 19.5°C and 20.5°C. In contrast, more recent years (2015–2023) frequently exceed 21°C, with several years reaching or surpassing 22°C. Although noticeable year-to-year variability is present, the overall pattern indicates a progressive warming of the local climate, particularly pronounced after 2010.
 This increase in baseline temperature is a key contextual element for extreme temperature analysis. As average maximum temperatures rise, the probability, frequency, and intensity of extreme heat events also increase. Consequently, understanding this long-term trend is essential before focusing on extremes, thresholds, and impacts, which are central objectives of this project.
-<img src="images/Average Yearly Maximum Temperature.png" alt="Important" width="250"/>
+
+
+<img src="images/Average Yearly Maximum Temperature.png" alt="Important" width="400"/>
 
 
 
