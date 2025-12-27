@@ -108,7 +108,7 @@ Why important: defines the worst daily thermal stress on humans
 - High TN prevents nighttime recovery
 
 - TX + TN together characterize heat waves
- ------------------------------------------------------------------------------------ 
+------------------------------------------------------------------------------------
 
 🌍 **LAT, LON, ALTI**
 
