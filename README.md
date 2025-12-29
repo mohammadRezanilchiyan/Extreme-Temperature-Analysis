@@ -210,6 +210,22 @@ This figure shows the monthly mean of daily maximum temperature (TX) for five su
 <img src="images/Monthly Temperature Patterns .png" alt="Important" width="700"/>
 
 
+## What are we looking for in this project here?
+ project focus is:
+- Understanding temperature behavior and extreme heat risk
+  
+The above figure helps answer three core questions:
+1️⃣ Is the data climatologically coherent?
+✅ Yes — strong seasonality and realistic temperature ranges
+
+2️⃣ Are stations comparable?
+✅ Yes — same pattern, different magnitudes
+
+3️⃣ Where might extreme heat risk be higher?
+- Summer months
+- Stations with consistently higher TX
+
+
 
 # Identifying the ML Problem Type
 here is question to answer : 
