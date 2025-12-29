@@ -236,6 +236,12 @@ The above figure helps answer three core questions:
 - Summer months
 - Stations with consistently higher TX
 
+Lowest TX values:
+Winter months (December–February)
+
+Highest TX values:
+Summer months (June–August), peaking in July–August
+
 
 
 # Identifying the ML Problem Type
