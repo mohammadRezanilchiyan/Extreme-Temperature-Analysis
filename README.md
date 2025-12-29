@@ -215,11 +215,12 @@ This figure shows the monthly mean of daily maximum temperature (TX) for five su
 - Understanding temperature behavior and extreme heat risk
   
 The above figure helps answer three core questions:
+
 1️⃣ Is the data climatologically coherent?
-✅ Yes — strong seasonality and realistic temperature ranges
+-  Yes — strong seasonality and realistic temperature ranges
 
 2️⃣ Are stations comparable?
-✅ Yes — same pattern, different magnitudes
+-  Yes — same pattern, different magnitudes
 
 3️⃣ Where might extreme heat risk be higher?
 - Summer months
