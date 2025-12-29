@@ -203,6 +203,13 @@ This increase in baseline temperature is a key contextual element for extreme te
 <img src="images/Average Yearly Maximum Temperature.png" alt="Important" width="700"/>
 
 
+# Monthly Temperature Patterns Across Stations
+
+This figure shows the monthly mean of daily maximum temperature (TX) for five surface meteorological stations in the Marseille area. All stations exhibit a clear and consistent seasonal pattern, with lower temperatures in winter and peak values during the summer months (June–August), confirming the climatological coherence of the dataset. Differences in temperature levels between stations reflect local geographic effects such as altitude and location, highlighting spatial heterogeneity that is relevant for the analysis of extreme heat risk. This exploratory analysis validates data quality and provides a foundation for studying temperature extremes and their spatial drivers.
+
+
+
+
 
 # Identifying the ML Problem Type
 here is question to answer : 
