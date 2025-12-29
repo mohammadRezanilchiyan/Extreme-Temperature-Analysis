@@ -207,6 +207,16 @@ This increase in baseline temperature is a key contextual element for extreme te
 
 This figure shows the monthly mean of daily maximum temperature (TX) for five surface meteorological stations in the Marseille area. All stations exhibit a clear and consistent seasonal pattern, with lower temperatures in winter and peak values during the summer months (June–August), confirming the climatological coherence of the dataset. Differences in temperature levels between stations reflect local geographic effects such as altitude and location, highlighting spatial heterogeneity that is relevant for the analysis of extreme heat risk. This exploratory analysis validates data quality and provides a foundation for studying temperature extremes and their spatial drivers.
 
+### Station-to-station differences
+
+Some stations (e.g. Marignane, Salon-de-Provence) consistently contribute higher TX
+Others (e.g. Aix-en-Provence) are slightly cooler
+
+This reflects geographical effects:
+- Altitude (ALTI)
+- Distance to sea
+- Urban vs rural exposure
+
 <img src="images/Monthly Temperature Patterns .png" alt="Important" width="700"/>
 
 
