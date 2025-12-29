@@ -242,7 +242,14 @@ Winter months (December–February)
 Highest TX values:
 Summer months (June–August), peaking in July–August
 
+## Interpretation for all cities 
+Annual summer mean temperatures (June–July–August) display a clear and consistent warming trend across all cities between 1950 and 2023. Prior to the 1980s, summer averages were typically within the range of 22–25 °C, whereas temperatures exceeding 26–30 °C become increasingly frequent after 2000. This pattern indicates a structural shift toward hotter summers rather than short-term variability.
 
+Several extreme summers, notably 1976, 2003, 2018, 2019, and 2022, appear simultaneously across multiple cities, suggesting large-scale climatic drivers. The 2003 heatwave stands out as an exceptional nationwide event, while 2022 matches or exceeds 2019 in severity in several locations.
+Marseille generally records the highest summer mean temperatures due to its Mediterranean climate, while Paris and Lyon exhibit sharp temperature peaks during heatwaves, reflecting urban heat amplification effects. Overall, the rising frequency and intensity of extreme summers underscore the importance of heatwave-focused early warning systems and targeted adaptation strategies.
+
+The stacked bars represent the annual number of extreme heat days (TX ≥ 35 °C). A clear upward trend is observed over time, particularly after the 1990s, highlighting a growing exposure to dangerous heat conditions. Several years, notably 1976, 2003, 2018, 2019, and 2022, emerge as major extreme summer events at the national scale.
+Marseille consistently records the highest number of extreme heat days, reflecting the influence of its Mediterranean climate and coastal heat persistence. While other cities experience pronounced peaks mainly during exceptional heatwave years, Marseille shows both higher frequency and intensity of extreme temperatures, making it a key location for assessing heat-related risks and long-term climate vulnerability.
 
 # Identifying the ML Problem Type
 here is question to answer : 
