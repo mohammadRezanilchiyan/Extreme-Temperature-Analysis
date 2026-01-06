@@ -209,6 +209,8 @@ This figure shows the monthly mean of daily maximum temperature (TX) for five su
 
 ### Station-to-station differences
 
+## Station-to-station per Months
+
 Some stations (e.g. Marignane, Salon-de-Provence) consistently contribute higher TX
 Others (e.g. Aix-en-Provence) are slightly cooler
 
@@ -253,6 +255,25 @@ Marseille generally records the highest summer mean temperatures due to its Medi
 The stacked bars represent the annual number of extreme heat days (TX ≥ 35 °C). A clear upward trend is observed over time, particularly after the 1990s, highlighting a growing exposure to dangerous heat conditions. Several years, notably 1976, 2003, 2018, 2019, and 2022, emerge as major extreme summer events at the national scale.
 Marseille consistently records the highest number of extreme heat days, reflecting the influence of its Mediterranean climate and coastal heat persistence. While other cities experience pronounced peaks mainly during exceptional heatwave years, Marseille shows both higher frequency and intensity of extreme temperatures, making it a key location for assessing heat-related risks and long-term climate vulnerability.
 
+
+## Station-to-station per day
+- ALTI = fixed
+- TX = variable
+- This means:
+❌ This plot does NOT show a smooth relationship
+❌ You cannot infer a slope from raw daily data
+
+
+<img src="images/TXandALTI.png" alt="Important" width="400"/>
+
+
+SO, cannot say
+- “Temperature increases linearly with altitude” ❌
+- “Altitude explains daily TX variation” ❌
+
+## Interpretation
+- Daily maximum temperature shows large variability at each altitude, while altitude itself is a fixed station characteristic. The vertical clustering reflects multiple daily observations per station rather than a continuous altitude gradient.
+  
 # Identifying the ML Problem Type
 here is question to answer : 
 - What Are We Trying to Predict?
