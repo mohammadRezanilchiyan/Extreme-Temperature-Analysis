@@ -264,7 +264,7 @@ Marseille consistently records the highest number of extreme heat days, reflecti
 ❌ You cannot infer a slope from raw daily data
 
 
-<img src="images/TXandALTI.png" alt="Important" width="400"/>
+<img src="images/TXandALTI.png" alt="Important" width="600"/>
 
 
 SO, cannot say
