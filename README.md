@@ -1,7 +1,7 @@
 # Extreme-Temperature-Analysis
 Write<b> By Mohammad Reza Nilchiyan</b>
 
-Predicting Dangerous Heat Conditions in France
+Predicting Dangerous Heat Conditions in France 🇫🇷
 The project focuses on extreme temperature behavior rather than averages, using surface station data from Météo-France. 
 Wet-bulb temperature is derived from temperature and humidity variables. 
 Extreme value statistics and machine learning models are used to assess regional vulnerability and future trends.
@@ -264,8 +264,7 @@ Marseille consistently records the highest number of extreme heat days, reflecti
 ❌ You cannot infer a slope from raw daily data
 
 
-<img src="images/TXandALTI.png" alt="Important" width="600"/>
-
+<img src="images/TXandALTI.png" alt="Important" width="700"/>
 
 SO, cannot say
 - “Temperature increases linearly with altitude” ❌
@@ -273,6 +272,11 @@ SO, cannot say
 
 ## Interpretation
 - Daily maximum temperature shows large variability at each altitude, while altitude itself is a fixed station characteristic. The vertical clustering reflects multiple daily observations per station rather than a continuous altitude gradient.
+
+
+## Search term for the temp & wind data
+Combines two DataFrames (df_tx and df_wind) by matching rows on the "date" column.
+
   
 # Identifying the ML Problem Type
 here is question to answer : 
