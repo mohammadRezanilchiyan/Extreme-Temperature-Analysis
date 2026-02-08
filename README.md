@@ -21,10 +21,9 @@ When Do Temperatures Become Dangerous for Humans in France?
 What is this project trying to answer?
 This project investigates when, where, and how often temperatures in France reach dangerous or potentially unlivable levels for humans, now and in the future.
 Instead of focusing on average temperatures, the project specifically targets extreme heat events, which are the true drivers of:
-heat-related mortality
-hospital overload
-crop failure
-power and infrastructure shutdowns
+heat-related mortality,
+crop failure,
+power and infrastructure shutdowns.
 The goal is to build an early-warning style predictor based on observed climate extremes.
 
 ### The central question of this project is:
